@@ -23,9 +23,10 @@ function preserveDecimal(n){
 }
 
 function inc(n){
-  return n++
+  return ++n
+  return number
 }
 
 function dec(n){
-  return n--
+  return --n
 }
